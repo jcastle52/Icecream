@@ -25,4 +25,4 @@ while (true) {
   for (let key in obj) {
     console.log(obj[key] + " " + key);
   }
-};
+}
